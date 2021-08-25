@@ -26,7 +26,7 @@
 
 ## Example
 
-<img src="https://github.com/vkozhemi/Android_Jetpack_masterclass_in_Kotlin/AndroidJetpackmasterclassinKotlin/blob/master/img/1.jpg" width="300">
+<img src="https://github.com/vkozhemi/Android_Jetpack_masterclass_in_Kotlin/blob/main/AndroidJetpackmasterclassinKotlin/img/1.jpg" width="300">
 
 <img src="https://github.com/vkozhemi/Android_Jetpack_masterclass_in_Kotlin/AndroidJetpackmasterclassinKotlin/blob/master/img/2.jpg" width="300">
 
